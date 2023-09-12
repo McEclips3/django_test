@@ -1,0 +1,6 @@
+.idea/
+test.py
+__pycache__/
+loginpass.env
+data.py
+freddy.json
